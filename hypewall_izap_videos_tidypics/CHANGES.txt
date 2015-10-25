@@ -1,0 +1,14 @@
+Changelog
+=========
+
+1.8.2
+-----
+
+- Usage of elgg_extend_view() instead of elgg_register_css() / elgg_load_css() for adding the CSS,
+- Added support for Tidypics, i.e. if Tidypics is installed a menu item is added to the hypeWall menu for quick access to image uploading,
+- Renaming of plugin folder to indicate support for Tidypics.
+
+1.8.0
+-----
+
+- Initial release.
